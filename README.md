@@ -9,7 +9,7 @@ Features
 Select Network Interface: Choose from available network interfaces to start sniffing.
 Start and Stop Sniffing: Begin and halt packet capture with dedicated buttons.
 Real-Time Output: View packet details in the terminal window as they are captured.
-![Sniffer_screen](screenshot.png)
+![Sniffer_screen](screenshot2.png)
 
 
 ## Installation
