@@ -17,6 +17,7 @@ Real-Time Output: View packet details in the terminal window as they are capture
 
 Prerequisites:
 
+
 Ensure you have Python installed. The recommended version is Python 3.7 or later. You will also need to install the necessary Python libraries.
 
 Install Dependencies:
@@ -39,7 +40,9 @@ Run the Sniffer:
 Execute the Python script:
 
 
+
 -python network_sniffer_gui.py
+
 
 This will open the GUI where you can select a network interface, start sniffing, and stop sniffing as needed.
 
@@ -47,9 +50,11 @@ Usage
 Select Network Interface:
 
 From the dropdown menu in the GUI, choose the network interface you wish to use for sniffing.
+
 Start Sniffing:
 
 Click the "Start Sniffing" button to begin capturing packets. The captured packet information will be displayed in the terminal window.
+
 Stop Sniffing:
 
 Click the "Stop Sniffing" button to halt the packet capture process.
@@ -58,6 +63,7 @@ Here's a snapshot of the application in action:
 
 
 Contributing
+
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request. Ensure that your code follows the existing style and includes appropriate tests.
 
 
@@ -65,4 +71,5 @@ Contact
 For any questions or issues, please contact:
 
 Email: achref.werchfeni@esprit.tn
+
 GitHub: achref3050
