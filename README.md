@@ -9,6 +9,7 @@ Features
 Select Network Interface: Choose from available network interfaces to start sniffing.
 Start and Stop Sniffing: Begin and halt packet capture with dedicated buttons.
 Real-Time Output: View packet details in the terminal window as they are captured.
+![Sniffer_screen](screenshot.png)
 
 
 ## Installation
@@ -59,8 +60,6 @@ Here's a snapshot of the application in action:
 Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request. Ensure that your code follows the existing style and includes appropriate tests.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
 For any questions or issues, please contact:
